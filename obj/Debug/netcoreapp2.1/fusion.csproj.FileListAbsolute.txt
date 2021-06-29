@@ -1,0 +1,10 @@
+C:\Users\mbright\source\repos\fusion\bin\Debug\netcoreapp2.1\fusion.deps.json
+C:\Users\mbright\source\repos\fusion\bin\Debug\netcoreapp2.1\fusion.runtimeconfig.json
+C:\Users\mbright\source\repos\fusion\bin\Debug\netcoreapp2.1\fusion.runtimeconfig.dev.json
+C:\Users\mbright\source\repos\fusion\bin\Debug\netcoreapp2.1\fusion.dll
+C:\Users\mbright\source\repos\fusion\bin\Debug\netcoreapp2.1\fusion.pdb
+C:\Users\mbright\source\repos\fusion\obj\Debug\netcoreapp2.1\fusion.csproj.CoreCompileInputs.cache
+C:\Users\mbright\source\repos\fusion\obj\Debug\netcoreapp2.1\fusion.AssemblyInfoInputs.cache
+C:\Users\mbright\source\repos\fusion\obj\Debug\netcoreapp2.1\fusion.AssemblyInfo.cs
+C:\Users\mbright\source\repos\fusion\obj\Debug\netcoreapp2.1\fusion.dll
+C:\Users\mbright\source\repos\fusion\obj\Debug\netcoreapp2.1\fusion.pdb

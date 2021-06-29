@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fusion", "fusion.csproj", "{A88ADF47-E2FE-4068-AEB0-A0FF2D0CBA7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88ADF47-E2FE-4068-AEB0-A0FF2D0CBA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88ADF47-E2FE-4068-AEB0-A0FF2D0CBA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88ADF47-E2FE-4068-AEB0-A0FF2D0CBA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88ADF47-E2FE-4068-AEB0-A0FF2D0CBA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23734C5F-05D9-47A6-9D93-E2387DEBEC6D}
+	EndGlobalSection
+EndGlobal
